@@ -1,3 +1,5 @@
+
+
 ## Original Package Description
 
 Super Slim, easy &amp; Responsive Slider for your Magento Store.
