@@ -1,16 +1,19 @@
 {
-    "name": "OpenMageModuleFostering/Viva_Responsive_Slider",
+    "name": "OpenMageModuleFostering\/Viva_Responsive_Slider",
     "type": "magento-module",
     "license": "OSL-v3.0",
     "homepage": "",
     "description": "Super Slim, easy &amp; Responsive Slider for your Magento Store.",
     "authors": [
-    {
-        "name": "Team Vivacity",
-        "email": "vivacityinfotech.jaipur@gmail.com"
-    }
-],
+        {
+            "name": "Team Vivacity",
+            "email": "vivacityinfotech.jaipur@gmail.com"
+        }
+    ],
     "suggest": {
-        "magento-hackathon/magento-composer-installer": "*"
-    }
+        "magento-hackathon\/magento-composer-installer": "*"
+    },
+    "keywords": [
+        "openmage-module"
+    ]
 }
